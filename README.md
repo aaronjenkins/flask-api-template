@@ -6,9 +6,8 @@ how to run
 3. it will return 'pong'
 
 # how to debug backend
-1. ```cd ./backend```
-2. ```pip install --user -r requirements.txt```
-3. put this in your .vscode/launch.json
+1. ```pip install --user -r requirements.txt```
+2. put this in your .vscode/launch.json
 ```
 {
   "version": "0.2.0",
@@ -29,7 +28,7 @@ how to run
   ]
 }
 ```
-2. run command 
+3. run command 
     - Linux or MacOs ```export_APP_SETTINGS=$PWD/config/LOCALCONFIG.py```
     - Windows ```set APP_SETTINGS=%cd%/config/LOCALCONFIG.py```
-3. then launch debug in VSCode
+4. then launch debug in VSCode
