@@ -2,7 +2,8 @@
 
 how to run 
 1. docker-compose up --build
-2. go to http://localhost:80
+2. go to http://localhost:5000/ping
+3. it will return 'pong'
 
 # how to debug backend
 1. ```cd ./backend```
