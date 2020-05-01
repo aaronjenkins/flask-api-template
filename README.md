@@ -30,6 +30,6 @@ how to run
 }
 ```
 2. run command 
-    - Linux or MacOs ```export_APP_SETTINGS=$PWD/backend/config/LOCALCONFIG.py```
-    - Windows ```set APP_SETTINGS=%cd%/backend/config/LOCALCONFIG.py```
+    - Linux or MacOs ```export_APP_SETTINGS=$PWD/config/LOCALCONFIG.py```
+    - Windows ```set APP_SETTINGS=%cd%/config/LOCALCONFIG.py```
 3. then launch debug in VSCode
